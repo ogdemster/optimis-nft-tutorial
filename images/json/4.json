@@ -1,0 +1,51 @@
+{
+  "name": "Apes in Summer Uniques #4",
+  "description": "This is a fully tutorialized nft collection.",
+  "image": "ipfs://QmTPcH2C3ok4btUtweX9cUy51kNkBKedZ5RsmzdAa4JpAw//4.png",
+  "dna": "b49ac21748c720fad9df47252ba65e16be4e1b29",
+  "edition": 4,
+  "date": 1665829754856,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Body30"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Surf"
+    },
+    {
+      "trait_type": "Prize",
+      "value": "Dinner"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Dangling"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat"
+    },
+    {
+      "trait_type": "Moustache",
+      "value": "Hook"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Anchor"
+    },
+    {
+      "trait_type": "Moustache",
+      "value": "Chevron"
+    },
+    {
+      "trait_type": "Prize",
+      "value": "Paint Ball"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

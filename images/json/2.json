@@ -1,0 +1,51 @@
+{
+  "name": "Apes in Summer Uniques #2",
+  "description": "This is a fully tutorialized nft collection.",
+  "image": "ipfs://QmTPcH2C3ok4btUtweX9cUy51kNkBKedZ5RsmzdAa4JpAw//2.png",
+  "dna": "7427d032fb1ced16864990c6ed8235b1a19a4725",
+  "edition": 2,
+  "date": 1665829751021,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Body30"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Beach"
+    },
+    {
+      "trait_type": "Prize",
+      "value": "Paint Ball"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Scuba"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Dangling"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Shaping"
+    },
+    {
+      "trait_type": "Moustache",
+      "value": "Artists"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Hulihee"
+    },
+    {
+      "trait_type": "Moustache",
+      "value": "Scrub"
+    },
+    {
+      "trait_type": "Prize",
+      "value": "Gift"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
