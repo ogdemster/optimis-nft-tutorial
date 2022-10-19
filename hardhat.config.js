@@ -9,14 +9,14 @@ const API_KEY = process.env.API_KEY;
 module.exports = {
   solidity: "0.8.10",
   networks: {
-    optimism: {
+    optimisticGoerli: {
       url: ALCHEMY_HTTP_URL,
       accounts: [PRIVATE_KEY],
     },
   },
   etherscan: {
     apiKey: {
-      optimism: API_KEY,
+      optimisticGoerli: API_KEY,
     },
   },
 };
