@@ -7,7 +7,7 @@ async function main() {
 
   // deploy the myNftContract dont forget to add your Pinata.Cloud Metadata CID
   const creatorhomeNFTontract = await creatorhomeNFT.deploy(
-    "ipfs//QmWtgBeokCyezcx7fmm6d8ipoEVuv7ZA2CUEJJAYSr7upk/"
+    "ipfs://QmaCGMggGzByfpuGoyRGsfqLLWQMhEi8WofakuMJtKsFtu/"
   );
 
   //wait for dmyNftContract deployed
@@ -23,7 +23,7 @@ async function main() {
   await hre.run("verify:verify", {
     address: creatorhomeNFTontract.address,
     constructorArguments: [
-      "ipfs//QmWtgBeokCyezcx7fmm6d8ipoEVuv7ZA2CUEJJAYSr7upk/",
+      "ipfs://QmaCGMggGzByfpuGoyRGsfqLLWQMhEi8WofakuMJtKsFtu/",
     ],
   });
 }
